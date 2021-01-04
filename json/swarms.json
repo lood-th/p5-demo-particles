@@ -1,0 +1,185 @@
+{
+    "swarms" : [
+    
+        {
+            "name" : "Lorem Ipsum",
+            
+
+            "col": "#ff9aa2",
+
+            "members" : [
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            }
+        ]
+        },
+        {
+            "name" : "Lorem Ipsum",
+            
+
+            "col": "#ffb7b2",
+
+            "members" : [
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            }
+        ]
+        },
+        {
+            "name" : "Lorem Ipsum",
+            
+
+            "col": "#ffdac1",
+
+            "members" : [
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            }
+        ]
+        },
+        {
+            "name" : "Lorem Ipsum",
+            
+
+            "col": "#e2f0cb",
+
+            "members" : [
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            }
+        ]
+        },
+        {
+            "name" : "Lorem Ipsum",
+            
+
+            "col": "#b5ead7",
+
+            "members" : [
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            },
+            {
+                "name":"Dolor Sit Amet"
+            }
+        ]
+        }
+    ]
+}

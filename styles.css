@@ -1,0 +1,13 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    
+    background-repeat: no-repeat; 
+}
+
+#wrapper{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom right, #0f0a30, #000000); 
+}
+
