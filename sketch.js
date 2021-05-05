@@ -1,5 +1,4 @@
-let businessTeam, 
-    swarms = [],
+let swarms = [],
     swarmsToBeMoved = [],
     r = 0,
     target,
